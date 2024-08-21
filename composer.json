@@ -1,11 +1,11 @@
 {
-    "name": "sophonie/coding-standard",
+    "name": "sopho/coding-standard",
     "description": "Sophonie Coding Standard",
     "type": "phpcodesniffer-standard",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sophonie\\CodingStandard\\": "src/"
+            "Sopho\\CodingStandard\\": "src/"
         }
     },
     "authors": [
