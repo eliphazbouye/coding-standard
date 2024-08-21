@@ -1,0 +1,18 @@
+{
+    "name": "sophonie/coding-standard",
+    "description": "Sophonie Coding Standard",
+    "type": "phpcodesniffer-standard",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sophonie\\CodingStandard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophonie Bouye",
+            "email": "sophoniebouye@gmail.com"
+        }
+    ],
+    "require": {}
+}
